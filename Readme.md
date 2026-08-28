@@ -45,7 +45,7 @@ Cloudinary (must have an account)
 Installation and Setup
 Clone the repository:
 
-git clone https://github.com/Hruthik-28/youtube-twitter.git
+git clone https://github.com/palkumar9393-sou/YouTube-Twitter-Backend.git
 Install dependencies:
 
 cd youtube-twitter
